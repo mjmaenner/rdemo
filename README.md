@@ -1,7 +1,7 @@
 # rdemo
-Short R demonstration for SHINE Fellows
+Short R demonstration for I-TIPP / SHINE Fellows
+(find the slides in the file list above)
 
-Matt  
 October 11, 2015  
 
 
