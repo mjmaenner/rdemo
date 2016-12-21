@@ -1,6 +1,7 @@
 # rdemo
+Visualizing Atlanta crime data
 Short R demonstration for I-TIPP / SHINE Fellows
-(find the slides in the file list above)
+(find the slides and code repo [here](https://github.com/mjmaenner/rdemo/tree/gh-pages) )
 
 October 11, 2015  
 
